@@ -17,7 +17,7 @@ Welcome to the official website of the **Ethiopian Space Science Society** – w
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/TinsaeTadesse17/ESSS-Website.git
    ```
 Install dependencies:
 
